@@ -1,6 +1,6 @@
 👋 Hey, I’m Benyapak Mensh (Foam)
 - 💻 I’m a Software QA Automation Engineer with a passion for clean code, testing strategies, and continuous improvement.
-- 🧪 I specialize in writing reliable, maintainable automation scripts using tools like [insert tools: Selenium, Cypress, Playwright, etc.].
+- 🧪 I specialize in writing reliable, maintainable automation scripts using tools like [Selenium, Atata.].
 - 🌱 Currently leveling up my skills in [API testing, CI/CD, test frameworks, etc.].
 - 👀 Always interested in collaborating on test automation, quality engineering, and DevOps projects.
 - 📫 Reach me at foam.mensh@gmail.com
