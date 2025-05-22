@@ -11,7 +11,7 @@
 - 🥄 Fun fact: I’m from Thailand, where everyone has a nickname. Mine’s Foam, and I cook like it’s my love language.
 - :football: Oh! and I'm a Commanders fan. #HTTR
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,vscode,mysql,postman,selenium,html,azure,aws,cs,dotnet,gherkin,html,github,git,gitlab,java,js,linux,discord,figma,maven&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,vscode,mysql,postman,selenium,html,azure,aws,jenkins,cs,dotnet,gherkin,html,github,git,gitlab,java,js,linux,discord,figma,maven,windows,powershell,Linux&perline=11)](https://skillicons.dev)
 
 <!---
 bmensh821/bmensh821 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
