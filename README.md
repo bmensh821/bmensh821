@@ -19,6 +19,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,vscode,mysql,postman,selenium,html,azure,aws,jenkins,cs,dotnet,gherkin,html,github,git,gitlab,java,js,linux,discord,figma,maven,windows,powershell,Linux&perline=11)](https://skillicons.dev)
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=bmensh821&label=Profile%20views&color=0e75b6&style=flat)
+
 <!---
 bmensh821/bmensh821 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
